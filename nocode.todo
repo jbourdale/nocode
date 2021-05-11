@@ -1,0 +1,17 @@
+Nocode:
+
+MVP:
+  ☐ Describe an APP in a editor view
+    ☐ Basic Widgets
+      ☐ Buttons
+      ☐ Text
+      ☐ Status Bar
+   ☐ Encode this description to a json data
+   ☐ Save this description in DB
+   ☐ Translate thoses widgets description as Flutter Code
+   ☐ Inject this Flutter Code into a Base Flutter Project and build it in a Docker Container
+   ☐ Download the build artefact as Web project and APK / App bundle
+
+Things to think about:
+  ☐ Flutter Hot Reload
+
